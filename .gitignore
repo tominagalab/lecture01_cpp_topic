@@ -1,0 +1,8 @@
+# ROS 2 / CMake
+build/
+install/
+log/
+*.pyc
+__pycache__/
+.vscode/
+compile_commands.json
